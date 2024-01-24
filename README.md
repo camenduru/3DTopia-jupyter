@@ -1,4 +1,4 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru <br />
+![image](https://github.com/camenduru/3DTopia-jupyter/assets/54370274/5ce66dcf-a97d-48fe-bac4-86da1c321d14)🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
@@ -37,6 +37,9 @@ First Stage (1000 Steps)
 
 Second Stage - Part 1
 ![Screenshot 2024-01-24 090940](https://github.com/camenduru/3DTopia-jupyter/assets/54370274/a11c735d-4c17-4613-9ace-4dcabc935098)
+
+Second Stage - Part 2
+![Screenshot 2024-01-24 104053](https://github.com/camenduru/3DTopia-jupyter/assets/54370274/ae48375e-b8f8-4521-b0b5-7f466b132901)
 
 ### 🏢 Sponsor
 https://modelslab.com
