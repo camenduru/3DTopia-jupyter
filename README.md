@@ -42,5 +42,7 @@ Second Stage - Part 1
 Second Stage - Part 2
 ![Screenshot 2024-01-24 104053](https://github.com/camenduru/3DTopia-jupyter/assets/54370274/ae48375e-b8f8-4521-b0b5-7f466b132901)
 
+![Screenshot 2024-01-24 113705](https://github.com/camenduru/3DTopia-jupyter/assets/54370274/ff03c1ce-ad5b-42a1-96ec-e06e5347bf08)
+
 ### 🏢 Sponsor
 https://modelslab.com
