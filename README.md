@@ -11,7 +11,7 @@
 
 📋 Tutorial
 
-![Screenshot 2024-01-24 110254](https://github.com/camenduru/3DTopia-jupyter/assets/54370274/29ded333-1858-4e9b-8b72-4e7e995e947f)
+![Screenshot 2024-01-24 112424](https://github.com/camenduru/3DTopia-jupyter/assets/54370274/769ef691-2f38-4cf7-a29d-ce44e09aa1c9)
 ```py
 "--config", type=str, default='configs/default.yaml'
 "--ckpt", type=str, default='checkpoints/3dtopia_diffusion_state_dict.ckpt'
