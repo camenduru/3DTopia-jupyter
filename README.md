@@ -32,7 +32,7 @@
 https://github.com/3DTopia/3DTopia
 
 ### 🖼 Output
-1000 Steps
+First Stage (1000 Steps)
 ![Screenshot 2024-01-24 055943](https://github.com/camenduru/3DTopia-jupyter/assets/54370274/a7ad0d55-1a81-4253-bfae-19504e2febbf)
 
 ### 🏢 Sponsor
