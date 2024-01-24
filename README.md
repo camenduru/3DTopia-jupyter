@@ -35,5 +35,8 @@ https://github.com/3DTopia/3DTopia
 First Stage (1000 Steps)
 ![Screenshot 2024-01-24 055943](https://github.com/camenduru/3DTopia-jupyter/assets/54370274/a7ad0d55-1a81-4253-bfae-19504e2febbf)
 
+Second Stage - Part 1
+![Screenshot 2024-01-24 090940](https://github.com/camenduru/3DTopia-jupyter/assets/54370274/a11c735d-4c17-4613-9ace-4dcabc935098)
+
 ### 🏢 Sponsor
 https://modelslab.com
