@@ -1,4 +1,4 @@
-![image](https://github.com/camenduru/3DTopia-jupyter/assets/54370274/5ce66dcf-a97d-48fe-bac4-86da1c321d14)🐣 Please follow me for new updates https://twitter.com/camenduru <br />
+🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
