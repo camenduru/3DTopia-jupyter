@@ -10,6 +10,7 @@
 [![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/3dtopia) | 3DTopia_jupyter (Free Kaggle)
 
 📋 Tutorial
+
 ![Screenshot 2024-01-24 110254](https://github.com/camenduru/3DTopia-jupyter/assets/54370274/29ded333-1858-4e9b-8b72-4e7e995e947f)
 ```py
 "--config", type=str, default='configs/default.yaml'
